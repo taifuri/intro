@@ -20,7 +20,6 @@
 }
 
 td {
-    padding: 100px 0px;
     width: 33%;
     text-align: center;
     font-size: 36pt;
@@ -43,6 +42,8 @@ input[type=submit] {
 
 a {
     text-decoration: none;
+    display: block;
+    padding: 100px 0px;
 }
 
 a:link, a:hover, a:visited, a:active {
