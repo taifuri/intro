@@ -1,0 +1,39 @@
+#wrapper {
+    background-image: url("dragon_quest.jpg");
+    background-size: 100%;
+    margin-left: 1em;
+}
+
+#table1 {
+    width: 50%;
+}
+
+#table2 {
+    width: 100%;
+}
+
+#title1 {
+    color: green;
+    margin-bottom: 0;
+}
+
+
+#title2 {
+    color: green;
+    margin-bottom: 0;
+}
+
+.color {
+    color: red;
+    margin: 0 auto 0 auto;
+}
+
+.image1 img {
+    border-radius: 10px;
+    width: 20%;
+    height: 175px;
+    float: right;
+    margin-left: 1em;
+    margin-right: 30em;
+    margin-bottom: 1em;
+}
