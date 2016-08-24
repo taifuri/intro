@@ -19,6 +19,19 @@
     width: 100%;
 }
 
+td {
+    padding: 100px 0px;
+    width: 33%;
+    text-align: center;
+    font-size: 36pt;
+    font-weight: 900;
+    background-color: #eeeeee;
+}
+
+.td1 {
+    border: solid 10px deeppink;
+}
+
 input[type=submit] {
     width: 333px;
     height: 400px;
@@ -26,4 +39,12 @@ input[type=submit] {
 
 .typetext {
     font-size: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:hover, a:visited, a:active {
+    color: darkblue;
 }
